@@ -1,15 +1,25 @@
 .login{
     height: 100vh;
+    // background-color: rbg(193, 190, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 
     .card{
+        width: 50%;
+        display: flex;
+        // background-color: white;
 
         .left{
+            flex: 1;
             h1{}
                 p{}
                     span{}
+                    button{}
         }
         .right{
+            flex:1;
             h1{}
             form{
                 input{}
